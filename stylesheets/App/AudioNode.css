@@ -17,26 +17,24 @@
   font-style: bold;
   font-size: 4em;
 }
-. {
-  font-family: 'Fjalla+One', Times;
-  font-style:bold;
-  font-size: 2em;
-}
+
 body{
   background: white;
   font-family:
   width: 900px;
-
   opacity: 80;
 }
 
-#signup{
-  margin:1em;
+#aboutContent{
+  margin: 1em;
 }
 
-
-
-
+#aboutContent p{
+  font-family: 'Racing+Sans+One|Fjalla+One',Times;
+  font-size: 20px;
+}
+#signup{
+  margin:1em;
 }
 
 hr{
