@@ -1,0 +1,61 @@
+.header{
+ 
+  background-image:url('wood2.jpg');
+  font-style: bold
+  background: #296999;
+  border-size:0px;
+
+}
+
+.nav{
+  width: 5em;
+  height: 5em;
+}
+
+
+. {
+  font-family: 'Fjalla+One', Times;
+  font-style:bold;
+  font-size: 2em;
+}
+body{
+  background: white;
+  font-family:
+  width: 900px;
+
+  opacity: 80;
+}
+
+.signup{
+  margin:5em;
+}
+
+
+
+
+}
+
+hr{
+  height: 2px;
+  border: 3px solid black;
+  background-color: #ccc;
+}
+#sectionContainer{
+  background: #aaaaaf;
+}
+
+.footer{
+  background: #296999;
+  background-image:url('wood2.jpg');
+  height:10em;
+}
+#sponsors p{
+  font-family: 'Racing+Sans+One|Fjalla+One',Times ;
+  font-size:3em;
+  font-style:bold;
+}
+  
+#logo{
+  
+  width: 400px;
+  height:100px

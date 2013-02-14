@@ -1,0 +1,86 @@
+/* Artfully masterminded by ZURB  */
+
+/* -------------------------------------------------- 
+   Table of Contents
+-----------------------------------------------------
+:: Shared Styles
+:: Page Name 1
+:: Page Name 2
+*/
+
+
+/* -----------------------------------------
+   Shared Styles
+----------------------------------------- */
+
+.header{
+ 
+  background-image:url('wood2.jpg');
+  background-size:100%;
+  font-style: bold
+  background: #296999;
+  border-size:20px;
+
+}
+.tabs {
+  font-family: 'Fjalla+One', Times;
+  font-style:bold;
+  font-size: 2em;
+}
+body{
+  background: white;
+  font-family:
+ 
+  border-size:5em;
+  opacity: 80;
+}
+
+.aboutContent h1{
+  font-family: 'Racing+Sans+One|Fjalla+One',Times ;
+  font-size: 7em;
+  font-style: bold;
+  
+}
+.aboutContent p{
+  font-family: 'Racing+Sans+One|Fjalla+One',Times ;
+  font-size: 21em;
+  font-style: bold;
+}
+
+hr{
+  height: 2px;
+  border: 3px solid black;
+  background-color: #ccc;
+}
+#sectionContainer{
+  background: #aaaaaf;
+}
+
+.footerContainer{
+  background: #296999;
+  background-image:url('wood2.jpg');
+}
+#sponsors p{
+  font-family: 'Racing+Sans+One|Fjalla+One',Times ;
+  font-size:3em;
+  font-style:bold;
+}
+  
+#logo{
+  
+  width: 400px;
+  height:100px;
+}
+/* -----------------------------------------
+   Page About
+----------------------------------------- */
+
+
+
+
+
+/* -----------------------------------------
+   Page Name 2
+----------------------------------------- */
+
+
