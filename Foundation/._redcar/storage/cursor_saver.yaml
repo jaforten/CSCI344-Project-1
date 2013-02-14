@@ -1,0 +1,48 @@
+--- 
+cursor_positions: 
+  - :path: javascripts/app.js
+    :cursor_offset: 0
+    :timestamp: 2013-02-06 14:19:38 -05:00
+  - :path: javascripts/foundation.min.js
+    :cursor_offset: 250
+    :timestamp: 2013-02-06 14:19:28 -05:00
+  - :path: javascripts/jquery.placeholder.js
+    :cursor_offset: 0
+    :timestamp: 2013-02-06 14:19:28 -05:00
+  - :path: .gitignore
+    :cursor_offset: 0
+    :timestamp: 2013-02-10 19:43:14.217000 -05:00
+  - :path: stylesheets/foundation.min.css
+    :cursor_offset: 0
+    :timestamp: 2013-02-06 14:19:36 -05:00
+  - :path: stylesheets/AudioNode+.css
+    :cursor_offset: 22
+    :timestamp: 2013-02-11 09:58:49.759000 -05:00
+  - :path: stylesheets/foundation.css
+    :cursor_offset: 247
+    :timestamp: 2013-02-11 10:16:47.898000 -05:00
+  - :path: stylesheets/app.css
+    :cursor_offset: 327
+    :timestamp: 2013-02-11 13:04:14.385000 -05:00
+  - :path: javascripts/jquery.event.swipe.js
+    :cursor_offset: 0
+    :timestamp: 2013-02-06 14:19:28 -05:00
+  - :path: stylesheets/App/wood2.JPG
+    :cursor_offset: 0
+    :timestamp: 2013-02-13 13:02:56.445000 -05:00
+  - :path: javascripts/jquery.event.move.js
+    :cursor_offset: 54
+    :timestamp: 2013-02-13 13:05:31.788000 -05:00
+  - :path: javascripts/jquery.foundation.orbit.js
+    :cursor_offset: 2483
+    :timestamp: 2013-02-13 12:48:04.415000 -05:00
+  - :path: stylesheets/App/app.css
+    :cursor_offset: 827
+    :timestamp: 2013-02-14 16:14:29.157000 -05:00
+  - :path: About.html
+    :cursor_offset: 2185
+    :timestamp: 2013-02-14 16:16:15.615000 -05:00
+  - :path: AudioNode+.html
+    :cursor_offset: 5368
+    :timestamp: 2013-02-14 16:16:18.013000 -05:00
+files_to_retain: 0

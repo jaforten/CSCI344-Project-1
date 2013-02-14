@@ -1,0 +1,45 @@
+--- 
+cursor_positions: 
+  - :path: docs/base-css.html
+    :cursor_offset: 1957
+    :timestamp: 2013-02-13 23:03:49.573000 -05:00
+  - :path: docs/customize.html
+    :cursor_offset: 0
+    :timestamp: 2013-02-13 23:03:55.721000 -05:00
+  - :path: docs/getting-started.html
+    :cursor_offset: 607
+    :timestamp: 2013-02-07 22:13:12 -05:00
+  - :path: stylesheets/App/app.css
+    :cursor_offset: 1198
+    :timestamp: 2013-02-13 23:04:24.053000 -05:00
+    :selection_offset: 328
+    :block_selection_mode: false
+  - :path: docs/index.html
+    :cursor_offset: 4683
+    :timestamp: 2013-02-14 09:43:39.111000 -05:00
+  - :path: stylesheets/App/AudioNode+.css
+    :cursor_offset: 128
+    :timestamp: 2013-02-14 09:17:02.831000 -05:00
+  - :path: AudioNode+.html
+    :cursor_offset: 2803
+    :timestamp: 2013-02-14 10:00:46.162000 -05:00
+  - :path: docs/index.html.html
+    :cursor_offset: 4300
+    :timestamp: 2013-02-14 10:57:41.312000 -05:00
+    :selection_offset: 4326
+    :block_selection_mode: false
+  - :path: stylesheets/App/AudioNode.css
+    :cursor_offset: 433
+    :timestamp: 2013-02-14 12:22:52.911000 -05:00
+  - :path: index.html
+    :cursor_offset: 5881
+    :timestamp: 2013-02-14 12:10:28.431000 -05:00
+    :selection_offset: 0
+    :block_selection_mode: false
+  - :path: about.html
+    :cursor_offset: 1126
+    :timestamp: 2013-02-14 12:31:15.611000 -05:00
+  - :path: .gitignore
+    :cursor_offset: 148
+    :timestamp: 2013-02-14 16:53:21.921000 -05:00
+files_to_retain: 0

@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+	hideDotFiles = dotGitOnly
+[gui]
+	wmstate = zoomed
+	geometry = 443x321+26+26 171 192
+[remote "origin"]
+	url = https://github.com/jaforten/csci344-Project-1.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
